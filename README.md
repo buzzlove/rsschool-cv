@@ -1,1 +1,1 @@
-# https://buzzlove.github.io/rsschool-cv/cv
+# https://buzzlove.github.io/rsschool-cv/
